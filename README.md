@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="linkedin.com/in/vikram-kumawat-a28b1a193" target="_blank">
-    <img src="" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="github.com/VikramKumawat726" target="_blank">
      <img src="github.com/VikramKumawat726" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
