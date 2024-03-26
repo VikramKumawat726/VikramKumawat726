@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Flutter, React-Native, AWS**
 
-💬 Ask me about **Java, React, MySQL... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Java, React, MySQL... 
 
  </div>
  
