@@ -26,7 +26,7 @@
     <img src="" target="_blank" />
   </a>
   <a href="github.com/VikramKumawat726" target="_blank">
-     <img src="" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="github.com/VikramKumawat726" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
